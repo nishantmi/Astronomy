@@ -3,3 +3,6 @@
 
 # Ignoring .fits files
 *.fits
+*.evt
+*.dat
+*.txt
